@@ -1,0 +1,48 @@
+keywords are reserved words that have predefine meaning in programming these words is pre-define for some specific task
+in the c programming language we have 32 keywords 
+1. auto 
+2. break
+3. case 
+4. char
+5. continue 
+6. do 
+7. default 
+8. const
+9. double 
+10. int 
+11. float
+12. long 
+13. if 
+14. else 
+15. switch
+16. while 
+17. for 
+18. short 
+19. sizeof 
+20. singed 
+21. unsigned
+22. volatile 
+23. void 
+24. union 
+25. typedef
+26. register
+27. return 
+28. goto 
+29. static 
+30 enum
+31 struct 
+32 .extern
+--------------------------------------------------------------------------
+
+Operators :  Operators is special symbolls Which have predefine for performing specific task it perform some operation between one or more than one operands 
+1. Arithmetic Operators(+,-,*,/,%)
+2. Relational operators(>,<,>=,<=,==,!=)
+3. Logical Operators(&&, || , !)
+4. Assignment Operators(=)
+5. Arithmetic assignment(+=,-=,*=,/=,%=)
+6. Unary operators (prefix and post fix)
+7. Ternary Operators (? :)
+8. bit-wise operators (AND , OR , XOR ,NOT, RIGHT SHIFT,LEFT SHIFT )
+
+
+

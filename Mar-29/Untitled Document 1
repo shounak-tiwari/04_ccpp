@@ -1,0 +1,39 @@
+Tokens : the smallest unit in a program that have meaningful representatons.  
+Tokens are the building block of a c program and they are reco1.gnized by the c compiler to form valid expression and statement 
+
+1. punctuators 
+2. keywords
+3. strings 
+4. operators
+5. constant
+6. identifiers
+
+1. punctuators : Special symbols are used in c having some special meaning 
+
+a. Square brackets []  : Arrays use 
+b. parentheses () : indicate function calls anf parameters 
+c. braces {} : denote opening and ending marks the start and end of the block of code containing more than one executable statement 
+d. comma (,) : it is used to seprate more than one statement 
+e. semicolon (;) it is known as terminators 
+f. color(:) initialization list 
+g. asterisk *  ===> pointers variable / multiplication of variable 
+h. pre processor (#) 
+i. Period( . ) calling struct and union 
+j. tlide(~)
+
+2. keywords : pre-define words for performing specific task we have 32 keywords in c programming 
+
+
+3. constant : where we define once and not able to modify them 
+
+
+shounaktiwari@gmail.com
+
+
+  
+
+
+
+
+
+
