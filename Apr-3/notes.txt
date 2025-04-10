@@ -1,0 +1,21 @@
+What is Data type in c 
+Data types are the type of data stored in a variable ,
+
+Data types constitute the semantics & characteristics of storage data element they are expressed inlangugage syntax in form of declaration for memory location or variable 
+
+
+int x = 10;
+
+
+1. char 
+2. int 
+3. float 
+4. long 
+5. double 
+6. void 
+
+modifiers : 
+	short
+	logn 
+	signed 
+	unsigned 
